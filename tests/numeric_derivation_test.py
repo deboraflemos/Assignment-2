@@ -30,7 +30,7 @@ def test_derive3():
 
 # to test the results locally, uncomment the following lines and run the file `python numeric_derivation_test.py`: 
 
-if __name__ == "__main__":
-    test_derive()
-    test_derive2()
-    test_derive3()
+#if __name__ == "__main__":
+   # test_derive()
+  # test_derive2()
+  #  test_derive3()
