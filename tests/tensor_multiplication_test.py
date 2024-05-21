@@ -86,13 +86,13 @@ def test_two_neurons_with_a_batch_of_inputs():
 # you can do that (after installing pytest) to check your work before submitting.
 # But you may submit(commit and sync) as many times as you want. 
 
-if __name__ == "__main__":
-    test_tensor_creation()
-    test_elementwise_product()
-    test_elementwise_product_fails()
-    test_product()
-    test_product_fails()
-    test_neuron()
-    test_a_batch_of_inputs()
-    test_two_neurons()
-    test_two_neurons_with_a_batch_of_inputs()
+#if __name__ == "__main__":
+#    test_tensor_creation()
+#    test_elementwise_product()
+#   test_elementwise_product_fails()
+#    test_product()
+#    test_product_fails()
+#    test_neuron()
+#    test_a_batch_of_inputs()
+#    test_two_neurons()
+#    test_two_neurons_with_a_batch_of_inputs()
