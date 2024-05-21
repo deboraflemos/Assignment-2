@@ -1,4 +1,4 @@
-import rmse
+import src.rmse as rmse
 
 def test_rmse():
     predictions = [1, 2, 3, 4, 5]

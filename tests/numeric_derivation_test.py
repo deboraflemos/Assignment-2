@@ -1,4 +1,4 @@
-from numeric_derivation import derive
+from src.numeric_derivation import derive
 
 
 tests = [
